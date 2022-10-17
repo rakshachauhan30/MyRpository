@@ -8,5 +8,8 @@ public class Demo1 {
 			
 		System.out.println("Github***********");
 	}
+		public void m2()
+		{
+		}
 
 }
