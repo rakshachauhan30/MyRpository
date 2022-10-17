@@ -4,11 +4,10 @@ public class Demo1 {
 		System.out.println("Hello its Rakshas first repo......");
 		System.out.println("************************************");
 		
-		
-		
-			System.out.println("Git hub pushing...");
-		
-		
+	}
+	public void m1()
+	{
+		System.out.println(" pushing...");	
 	}
 
 }
